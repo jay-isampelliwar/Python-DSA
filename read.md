@@ -6,8 +6,6 @@ Problem Statement
 
 Determine if a given singly linked list has a cycle in it. A cycle occurs when a node’s next pointer points back to a previous node, forming a loop within the list.
 
-Example
-
 Input:
 
 A linked list where a node points back to a previous node, creating a cycle.
